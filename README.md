@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sajolsaha
-- 👀 I’m interested in #Python , #Java , #JS , #React, #SQL
+- 👀 I’m interested in #Java , #JS , #React, #SQL , #Python
 - 🌱 I’m currently learning #NodeJS #NextJS #NoSQL #Kotlin #ReactNative
 - 💞️ I’m looking to collaborate on Projects based on #React & #Java
 - 📫 How to reach me sajol.saha@gmail.com
