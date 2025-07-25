@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @sajolsaha
-- 👀 I’m Experienced in #Java Spring-Boot, #Microservice , #JS  #TS, #React, #NextJS #SQL ,#NoSQL
-- 🌱 I’m currently working on Spring-Boot Based Web Application, With React and Next JS cosisting of  Domain Driven Design , Event Based Service Invocation with Apache Kafka
-- 💞️ I’m looking to collaborate on Projects based on #React & #Java
-- 📫 How to reach me sajol.saha@gmail.com
+- 👀 Experienced in Java, Spring-Boot, Microservice, DBMS & System Design 
+- 💞️ Open to collaborate on Projects based on Java & Spring Boot Based Enterprise Applications
+- 📫 Reach me @ sajol.saha@gmail.com
